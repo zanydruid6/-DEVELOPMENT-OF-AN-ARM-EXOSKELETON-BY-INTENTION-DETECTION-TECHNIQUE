@@ -1,0 +1,2 @@
+# -DEVELOPMENT-OF-AN-ARM-EXOSKELETON-BY-INTENTION-DETECTION-TECHNIQUE
+This repository contains the implementation and research findings of a novel Arm Exoskeleton system designed to assist individuals with impaired arm functions. The system employs an intention detection technique using electromyography (EMG) sensors to capture and interpret muscle signals, enabling synchronized motion assistance.
